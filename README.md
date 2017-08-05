@@ -1,7 +1,7 @@
 # ParallelMatrixMultiplication
 Parallel Matrix Multiplication using Processes or Threads in C
 
-Calculates the multiplication sum of a matrix using either proccesses or threads.
+Command Line Interface, Calculates the multiplication sum of a matrix using either processes or threads.
 
 
 COMPILING & EXECUTING
